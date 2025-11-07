@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Power BI Dashboard]("C:/Users/DELL/Documents/Projects_dataset/Retail_Analytics_Project/visuals/dashboard  #Power BI image.png")
+![Power BI Dashboard]("C:\Users\DELL\Documents\Projects_dataset\Retail_Analytics_Project\visuals\dashboard  #Power BI image.png")
 
 ### End-to-End Data Analytics | Python | Power BI | Business Intelligence
 
