@@ -19,7 +19,7 @@ It demonstrates an end-to-end data analytics workflow — from cleaning and tran
 ---
 
 ## Tools & Technologies
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Python:** Pandas
 - **Power BI:** Data modeling, interactive visuals
 - **Jupyter Notebook:** Exploratory data analysis & documentation
 
@@ -40,7 +40,7 @@ It demonstrates an end-to-end data analytics workflow — from cleaning and tran
 
 ### Power BI Integration
 - Imported the cleaned dataset into Power BI.
-- Created key metrics (using DAX where needed):
+- Created key metrics:
 - **Total Sales**
 - **Total Profit**
 - **Average Discount**
@@ -54,7 +54,7 @@ Built an interactive Power BI dashboard featuring:
 - **Profit vs Discount** 
 - **Interactive Filters (Slicers):** Region, Category, Segment
 
-### 5Design & Presentation
+### Design & Presentation
 - Applied a consistent **color palette** and clean layout.
 - Added KPI cards at the top for Total Sales, Profit, and Discount metrics.
 - Included descriptive titles and labels for clarity.
