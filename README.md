@@ -1,9 +1,6 @@
 # Retail Analytics Dashboard — Global Superstore
 
-
-## Dashboard Preview
-
-![Retail_Analytics_Project](dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ### End-to-End Data Analytics | Python | Power BI | Business Intelligence
 
