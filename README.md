@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+![Retail_Analytics_Project](dashboard.png)
 
 ### End-to-End Data Analytics | Python | Power BI | Business Intelligence
 
